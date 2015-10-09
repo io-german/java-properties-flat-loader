@@ -1,0 +1,11 @@
+{
+  "name": "java-properties-flat-loader",
+  "version": "0.1.0",
+  "description": "Enables import of .properties files to your Webpack-managed bundles.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ivan German",
+  "license": "ISC"
+}
