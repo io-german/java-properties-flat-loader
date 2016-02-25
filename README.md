@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/io-german/java-properties-flat-loader.svg?branch=master)](https://travis-ci.org/io-german/java-properties-flat-loader)
+
 This loader enables to require Java .properties files to your webpack-driven application. Keys are 
 treated as plain strings.
 
