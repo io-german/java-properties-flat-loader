@@ -11,8 +11,5 @@
     "test": "jasmine-node spec/*spec.js"
   },
   "author": "Ivan German",
-  "license": "ISC",
-  "devDependencies": {
-    "jasmine-node": "^1.14.5"
-  }
+  "license": "ISC"
 }
