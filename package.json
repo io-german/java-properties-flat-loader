@@ -2,7 +2,7 @@
   "name": "java-properties-flat-loader",
   "version": "0.1.1",
   "description": "Enables require of .properties files to your Webpack-managed bundles.",
-  "main": "index.js",
+  "main": "src/index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/io-german/java-properties-flat-loader"
@@ -11,5 +11,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ivan German",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
 }
