@@ -8,7 +8,7 @@
     "url": "https://github.com/io-german/java-properties-flat-loader"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jasmine-node spec/*spec.js"
   },
   "author": "Ivan German",
   "license": "ISC",
