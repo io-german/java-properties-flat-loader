@@ -1,6 +1,6 @@
 {
   "name": "java-properties-flat-loader",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "Enables require of .properties files to your Webpack-managed bundles.",
   "main": "src/index.js",
   "repository": {
