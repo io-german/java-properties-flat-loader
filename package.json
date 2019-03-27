@@ -13,7 +13,6 @@
   "author": "Ivan German",
   "license": "ISC",
   "dependencies": {
-    "properties": "^1.2.1",
-    "synchronize": "^0.9.15"
+    "properties": "^1.2.1"
   }
 }
