@@ -28,6 +28,10 @@ Title message is "Hello!"
 
 ### Version history
 
+#### 1.1.0
+
+* Removed unnecessary dependancies 
+
 #### 1.0.0
 
 * Added almost complete support of *.properties* file format (thanks to the [properties](https://www.npmjs.com/package/properties) module)
